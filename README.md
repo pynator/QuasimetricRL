@@ -102,9 +102,11 @@ To generate a video of the trained policy, use the video.sh script.
 ./video.sh
 ```
 
-## Reference repositories
-[Interval Quasimetric Embedding (IQE)](https://arxiv.org/abs/2211.15120)
+## References
+[Interval Quasimetric Embedding (IQE) (Paper)](https://arxiv.org/abs/2211.15120)
 
-[Metric Residual Network (Codebase)](https://arxiv.org/abs/2208.08133)
+[Interval Quasimetric Embedding (IQE) (Code - torchqmet)](https://github.com/quasimetric-learning/torch-quasimetric)
+
+[Metric Residual Network (Code)](https://github.com/Cranial-XIX/metric-residual-network)
 
 [Gymnasium Robotics](https://robotics.farama.org/index.html)
